@@ -1,0 +1,4 @@
+﻿  warm_up.cpp
+D:\UF Study\Semester 2\Computer Graphic\Project2\openglwarm\warm_up.cpp(172,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\Project2\openglwarm\warm_up.cpp(185,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  openglwarm.vcxproj -> D:\UF Study\Semester 2\Computer Graphic\Project2\openglwarm\Debug\openglwarm.exe
