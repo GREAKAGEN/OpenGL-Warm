@@ -1,0 +1,13 @@
+
+Microsoft (R) Program Maintenance Utility Version 14.29.30136.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30136 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+cl : Command line warning D9024 : unrecognized source file type 'cl', object file assumed
+cl : Command line warning D9027 : source file 'cl' ignored
+cl : Command line warning D9024 : unrecognized source file type 'mesh.h', object file assumed
+cl : Command line warning D9027 : source file 'mesh.h' ignored
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.EXE"' : return code '0x2'
+Stop.
